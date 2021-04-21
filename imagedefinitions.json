@@ -1,6 +1,6 @@
 [
   {
-    "name": "webapache",
-    "imageUri": "824893526580.dkr.ecr.us-east-1.amazonaws.com/web-server:latest"
+    "name": "tomcat-sample",
+    "imageUri": "824893526580.dkr.ecr.us-east-1.amazonaws.com/tomcat-server:latest"
   }
 ]
