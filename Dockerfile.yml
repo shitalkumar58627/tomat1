@@ -1,0 +1,2 @@
+FROM shitalkumar58627/mywebserver:latest
+COPY index.html /var/www/html/index.htm
